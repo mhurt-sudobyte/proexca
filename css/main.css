@@ -1,0 +1,105 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+body{
+  background-image: url('../images/background_image.png');
+}
+#header{
+  background-color: #000000;
+  color:#ffffff;
+}
+#header p{
+  margin-top:1%;
+  margin-left: 5%;
+}
+#navbar i{
+  color:#ffffff;
+}
+#navbar ul{
+  margin-top: 5%;
+}
+#navbar ul li a{
+  font-size: 3vh;
+  color: #ffffff;
+}
+nav{
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.jumbotron{
+  background-image: url('../images/top_jumbo.webp');
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  border-radius: 0px !important;
+}
+#branding_img{
+  margin-top: 10%;
+  height:50%;
+  width: 50%;
+}
+.jumbotron i{
+  font-size: 500px;
+  margin-top: 5%;
+}
+.service_individuals{
+  margin-top: 10%;
+  margin-bottom: 2%;
+  background-color: #AAC568;
+
+}
+.services_icons{
+  margin-top: 15% !important;
+  height: 10vh;
+}
+.service_individuals h1{
+  margin-top: 5%;
+
+}
+.mid_jumbtron{
+  margin-top: 30%;
+  background-image: url('../images/mid_jumbo.jpeg');
+  height: 120vh;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  border-radius: 0px !important;
+}
+.who_are_we_box{
+  margin-top:5%;
+  background-color: rgba(255,121,0,0.7);
+}
+.who_are_we_box h1{
+  margin-top: 5%;
+}
+#contact{
+  margin-top: 5%;
+  color:#ffffff;
+}
+.contact_circles{
+  margin-top: 10%;
+  background-color:#AAC568;
+  height: 20vh;
+  width: 20vh;
+  border-radius: 50%;
+}
+.contact_circles img{
+  height: 50%;
+  width: 50%;
+  margin-top: 25%;
+  margin-left: 25%;
+}
+.contact_circles_container h3{
+  margin-top: 2%;
+  text-align: center;
+}
+#footer{
+  margin-top: 2%;
+  color:#ffffff;
+}
+#footer h3{
+  margin-top: 2%;
+}
