@@ -24,6 +24,14 @@ body{
   font-size: 3vh;
   color: #ffffff;
 }
+#navbar .navbar-toggler{
+    margin-left: 150%;
+}
+#navbar .navbar-toggler img{
+  height: 5vh;
+  width: 5vh;
+
+}
 nav{
   background-color: rgba(0, 0, 0, 0.1);
 }
@@ -46,8 +54,9 @@ nav{
   margin-top: 5%;
 }
 .service_individuals{
-  margin-top: 10%;
-  margin-bottom: 2%;
+  color:#ffffff;
+  margin-top: ;
+  margin-bottom: ;
   background-color: #AAC568;
 
 }
@@ -60,7 +69,7 @@ nav{
 
 }
 .mid_jumbtron{
-  margin-top: 30%;
+  margin-top: 5%;
   background-image: url('../images/mid_jumbo.jpeg');
   height: 120vh;
   background-size: cover;
